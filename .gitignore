@@ -10,6 +10,8 @@ build/
 .idea/compiler.xml
 .idea/libraries/
 .idea/dbnavigator.xml
+.idea/intellij-javadocs-4.0.1.xml
+.idea/inspectionProfiles/Project_Default.xml
 *.iws
 *.iml
 *.ipr
