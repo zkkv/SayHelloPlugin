@@ -1,7 +1,7 @@
 # SayHello IntelliJ Plugin
 
 ## Description
-A simple IntelliJ plugin that display a modal dialog window saying "Hello World!"
+A simple IntelliJ plugin that displays a modal dialog window saying "Hello World!"
 
 ## How to run
 1. Clone the repository.
